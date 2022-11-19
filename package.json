@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "eccomerce",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avazquezok/server.git"
+  },
+  "author": "Agustin Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avazquezok/server/issues"
+  },
+  "homepage": "https://github.com/avazquezok/server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
